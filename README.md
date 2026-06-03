@@ -8,10 +8,10 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🎓 Atualmente estudando na **FIAP**.
-- 🚀 Desenvolvendo aplicações e aprimorando conhecimentos em **Java, Python, JavaScript, Banco de dados Oracle, React e NestJS**.
-- 💡 Tenho forte interesse em **Desenvolver aplicações Web** e **Automação de processos**.
-- 📍 Cotia, SP.
+-  Atualmente estudando na **FIAP**.
+-  Desenvolvendo aplicações e aprimorando conhecimentos em **Java, Python, JavaScript, Banco de dados Oracle, React e NestJS**.
+-  Tenho forte interesse em **Desenvolver aplicações Web** e **Automação de processos**.
+-  Cotia, SP.
 
 <br/>
 
